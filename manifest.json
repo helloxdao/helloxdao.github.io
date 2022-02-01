@@ -1,0 +1,8 @@
+{
+  "name": "007.icu",
+  "short_name": "007.icu",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#24292E",
+  "theme_color": "#24292E"
+}
