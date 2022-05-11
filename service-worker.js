@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.dbc9e967edb2ea872d14bb3eda461e8b.js"
+  "/precache-manifest.32d07c70a4bda8b2a252e11c22f53d89.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "icu"});
